@@ -1,0 +1,12 @@
+a {
+    color: black;
+  }
+li :hover{
+    color: lightgrey;
+}
+
+body{
+    background-image: url('../images/it.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
